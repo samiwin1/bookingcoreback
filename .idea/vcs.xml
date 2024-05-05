@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new-back-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new-back-project/booking-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new-back-project/bookingcoreback" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new-back-project/contact-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new-back-project/offers-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new-back-project/user-management-service" vcs="Git" />
+  </component>
+</project>
